@@ -1,0 +1,1 @@
+# funcoes q geram os graficos com matplotlib

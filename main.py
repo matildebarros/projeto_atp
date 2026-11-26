@@ -1,0 +1,1 @@
+# ficheiro inicial q abre a aplicacao e controla tudo
